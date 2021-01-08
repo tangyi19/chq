@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: chq
+Version: 0.0.3
+Summary: Hacktool
+Home-page: https://github.com/tangyi19/chq
+Author: TangYi
+Author-email: adamtang0830@gmail.com
+License: UNKNOWN
+Description: # HACKTOOL
+        
+        **Anybody can fuck a satellite/website by this one-click package.**
+        
+        **CTFer can print the flag in CTF competitions automatically**
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

@@ -1,0 +1,7 @@
+README.md
+setup.py
+chq/__init__.py
+chq.egg-info/PKG-INFO
+chq.egg-info/SOURCES.txt
+chq.egg-info/dependency_links.txt
+chq.egg-info/top_level.txt
